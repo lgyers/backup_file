@@ -1,0 +1,18 @@
+[user]
+	email = lgy330395508@gmail.com
+	name = lgyer
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %Cblue<%an>%Creset'
+	st = status
+	gp = git push
+    gcmsg = git commit -m
+    gd = git diff
+    gdca = git diff --cached
+    gf = git fetch
+    ga = git add
+[color]
+	ui = true
+
+[core]
+	editor = /usr/local/bin/vim
+	fileMode = false
